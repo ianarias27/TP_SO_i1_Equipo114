@@ -5,3 +5,7 @@ Hora: 14:19
 Gamma: Lucia ALvarez
 IP: 181.229.68.42
 Hora: 14:27
+
+Beta: Ulises Acevedo
+IP: 192.168.0.104
+Hora: 16:30
