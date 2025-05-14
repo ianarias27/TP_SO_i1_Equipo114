@@ -1,5 +1,5 @@
 Alfa: ian arias
-IP: 
+IP: 192.168.100.123
 Hora: 14:19
 
 Gamma: Lucia ALvarez
